@@ -11,19 +11,19 @@
                 <key>kind</key>
                 <string>software-package</string>
                 <key>url</key>
-                <string>https://gitlab.com/GeekStore/GeekStore/-/raw/main/Electra1141-2.0.ipa?inline=false</string>
+                <string>https://downloadx.getuploader.com/g/65086a58-7d0c-4b6f-bada-0ac3a010e467/1%7Csample/17832/sample_17832.ipa</string>
             </dict>
         </array>
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>com.geekstore.Electra</string>
+            <string>destory.stupid.X</string>
             <key>bundle-version</key>
             <string>1.0.0</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>Electra</string>
+            <string>Twitter</string>
         </dict>
     </dict>
 </array>
